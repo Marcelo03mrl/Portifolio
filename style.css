@@ -1,1 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --cor-principal: #0056B3;
+    --cor-vermelha: #C62828;
+    --cor-branca: #FFFFFFFF;
+    --cor-cinza: #444444;
+    --cor-amarela: #FFD700;
+}
