@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --cor-principal: #0056B3;
-    --cor-vermelha: #C62828;
-    --cor-branca: #FFFFFFFF;
-    --cor-cinza: #444444;
-    --cor-amarela: #FFD700;
+    --cor-principal: #ff0000;
+    --cor-rosa: #ee005f;
+    --cor-roxo-escuro: #b62a8f;
+    --cor-roxo-claro: #6d4b9a;
+    --cor-azul: #325082;
+    --cor-cinza: #2f4858;
+    --cor-preta: #000000;
+    --cor-branca: #FFFFFF;
 }
