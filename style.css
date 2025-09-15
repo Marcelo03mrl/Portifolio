@@ -3,10 +3,34 @@
 :root {
     --cor-principal: #ff0000;
     --cor-rosa: #ee005f;
-    --cor-roxo-escuro: #b62a8f;
-    --cor-roxo-claro: #6d4b9a;
-    --cor-azul: #325082;
+    --cor-roxo: #b62a8f;
     --cor-cinza: #2f4858;
-    --cor-preta: #000000;
-    --cor-branca: #FFFFFF;
+    --cor-azulescuro: #325082;
+    --cor-branco: #ffffff;
+    --cor-preto: #000000;
+}
+
+#body {
+    background-color: var(--cor-azulescuro);
+}
+
+#rodape {
+    background-color: var(--cor-cinza);
+    color: var(--cor-branco);
+}
+
+#ancora {
+    text-decoration: none;
+    color: var(--cor-branco);
+    font-size: 20px;
+    transition:  color 0.3s ease;
+}
+#ancora:hover {
+    color: var(--cor-principal);
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.habilidades {
+    text-decoration: none;
 }
